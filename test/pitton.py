@@ -1,6 +1,4 @@
-Aquí tienes un código simple en Python, totalmente funcional, con validación de errores y fácil de entender.
-El programa pide un número y muestra si es par o impar.
-Python# Programa simple en Python: determinar si un número es par o impar
+# Programa simple en Python: determinar si un número es par o impar
 
 def es_par(num):
     # Retorna True si el número es par
@@ -25,4 +23,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-Si quieres otro programa simple (calculadora, conversión de temperaturas, listas, etc.), puedo generarlo.
